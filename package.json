@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@iden3/js-iden3-auth": "^0.1.4",
+    "alchemy-sdk": "^2.2.1",
+    "cors": "^2.8.5",
+    "tslib": "^2.4.0"
+  }
+}
